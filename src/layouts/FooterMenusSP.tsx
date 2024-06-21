@@ -1,6 +1,6 @@
-import { ChevronDown } from "lucide-react";
+import { ChevronDown } from 'lucide-react';
 
-import { Menu } from "../types";
+import { Menu } from '../types';
 
 type Props = {
   heading: string;
